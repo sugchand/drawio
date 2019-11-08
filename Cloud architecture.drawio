@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-08T16:05:00.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="xYNtXF2SeXtku7tc4N2A" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T16:38:13.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="jnaWEPDKgK2Xs8foUjnf" version="12.2.3" type="github" pages="1">
   <diagram id="D2mkv0FKJSPZ_j_Xn19u" name="Page-1">
     <mxGraphModel dx="2336" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -393,6 +393,9 @@
             <mxPoint x="434.5" y="210" as="sourcePoint"/>
             <mxPoint x="434.5" y="370" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JzV0yU32i0BG53_tPpuR-128" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;4x10G port in every server&lt;br&gt;2x10G shared between storage and management.&lt;br&gt;2x10G is for networking. Used in LACP bonded mode.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420.5" y="740" width="295" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
