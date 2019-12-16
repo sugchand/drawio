@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T12:19:46.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="8U1KfvlZyj3HInM5kjE8" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T12:21:21.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="nlVqCqzetXEGwAXHu69H" version="12.4.2" type="github" pages="1">
   <diagram id="HozCwNSfqqugQ0Yzk6nG" name="Page-1">
     <mxGraphModel dx="1986" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -156,6 +156,24 @@
             <mxPoint x="455" y="380" as="sourcePoint"/>
             <mxPoint x="690" y="270" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-FQGyZQafQDy_hneOG7Y-46" value="" style="endArrow=classic;html=1;strokeColor=#00FF00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="120" as="sourcePoint"/>
+            <mxPoint x="810" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-FQGyZQafQDy_hneOG7Y-47" value="BFD config Update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="110" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-FQGyZQafQDy_hneOG7Y-48" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="759.9999999999999" y="160" as="sourcePoint"/>
+            <mxPoint x="815.66" y="160" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-FQGyZQafQDy_hneOG7Y-49" value="BFD data poll channel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="150" width="130" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
