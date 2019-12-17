@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-17T12:32:33.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="GtICRiIw34_vNkoMxpMF" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-17T12:37:19.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="_53_g--kVuKT3DYhhRFp" version="12.4.2" type="github" pages="1">
   <diagram id="Zf1moELY5aSaE2jxueNO" name="Page-1">
-    <mxGraphModel dx="2837" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1655" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -333,6 +333,9 @@
         </mxCell>
         <mxCell id="HJ_L1rE2T7s1D5HdSCg_-88" value="VM in &lt;font color=&quot;#ff0000&quot;&gt;RED&amp;nbsp;&lt;/font&gt;VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="808" y="264" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HJ_L1rE2T7s1D5HdSCg_-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/camp/96/fire-128.png;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="627" y="310" width="38" height="38" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
