@@ -1,1 +1,40 @@
-<mxfile host="www.draw.io" modified="2020-02-09T12:30:52.510Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" etag="FSq5Q4UgDeMbF5Cgc64p" version="12.6.6" type="github"><diagram id="7Z0QAmkbjTj8d5dyrcaS" name="Page-1">jZJdT4MwFIZ/TS+XUDp03opzxsRkGdF5W+mRNimUdEXAX2+RUxhZluymaZ/z2fccwtKy21leyzcjQJM4Eh1hTySOk03szwH0I6DJ+mEkhVUC2Qwy9QsII6SNEnBaODpjtFP1EuamqiB3C8atNe3S7dvoZdWaF3ABspzrS3pUwsmRbpJo5i+gChkq0wgtJQ/OCE6SC9OeIbYlLLXGuPFWdinoQbygyxj3fMU6NWahcrcEvH4d9h9Huafv691KZfVndYhWmOWH6wY/jM26PihgTVMJGJJQwh5bqRxkNc8Ha+tn7pl0pUYzpgProLvaJ51+79cGTAnO9t4FAybBcGXie3y3s/40+Mgz7e+QcRx5MaWeVfEXFCY85wH8287WmG3/AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-09T12:36:25.813Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" etag="vJbK1WW6oj2zrMJLk9X8" version="12.6.6" type="github">
+  <diagram id="7Z0QAmkbjTj8d5dyrcaS" name="Page-1">
+    <mxGraphModel dx="719" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="JbRPVWhP1U4G-iSpXnR0-1" value="&lt;b&gt;ConfD&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="240" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3jD2yQgGgmmI8q0Z6e8k-1" value="&lt;b&gt;StatD&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3jD2yQgGgmmI8q0Z6e8k-2" value="&lt;b&gt;MonitroD&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3jD2yQgGgmmI8q0Z6e8k-3" value="&lt;b&gt;Logger&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3jD2yQgGgmmI8q0Z6e8k-4" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="360" as="sourcePoint"/>
+            <mxPoint x="720" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3jD2yQgGgmmI8q0Z6e8k-5" value="Control Path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="3jD2yQgGgmmI8q0Z6e8k-6" value="Data Path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="3jD2yQgGgmmI8q0Z6e8k-7" value="&lt;b&gt;Kafka Client&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3jD2yQgGgmmI8q0Z6e8k-8" value="&lt;b&gt;Etcd Client&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="80" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
