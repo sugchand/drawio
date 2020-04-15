@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-15T14:40:00.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="JLR_A3VnSx1VAbM6FmYx" version="12.9.10" type="github">
+<mxfile host="www.draw.io" modified="2020-04-15T14:40:53.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="o3SiYk3QZ5QvDpeuzLUr" version="12.9.10" type="github">
   <diagram id="DGuxC2egyGF5mKbaKbJq" name="Page-1">
     <mxGraphModel dx="767" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
             <mxPoint x="770" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNCdPxVCbltuEIP-QBrs-46" value="&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#663300&quot;&gt;Session-3-&lt;b&gt;SeqNo, DataBurst&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=4;" vertex="1" connectable="0" parent="kNCdPxVCbltuEIP-QBrs-45">
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-46" value="&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#663300&quot;&gt;Session-2-&lt;b&gt;SeqNo, DataBurst&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=4;" vertex="1" connectable="0" parent="kNCdPxVCbltuEIP-QBrs-45">
           <mxGeometry x="-0.2061" y="2" relative="1" as="geometry">
             <mxPoint x="17.57" y="-3.88" as="offset" />
           </mxGeometry>
@@ -235,9 +235,9 @@
             <mxPoint x="210" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNCdPxVCbltuEIP-QBrs-52" value="&lt;font style=&quot;font-size: 8px&quot; color=&quot;#4d9900&quot;&gt;Session-2,&lt;b&gt;&amp;nbsp;SeqNO, DataBurst&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNCdPxVCbltuEIP-QBrs-51">
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-52" value="&lt;font style=&quot;font-size: 8px&quot; color=&quot;#4d9900&quot;&gt;Session-3,&lt;b&gt;&amp;nbsp;SeqNO, DataBurst&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=346;" vertex="1" connectable="0" parent="kNCdPxVCbltuEIP-QBrs-51">
           <mxGeometry x="-0.0303" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-48.6" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
