@@ -1,17 +1,29 @@
-<mxfile host="www.draw.io" modified="2020-04-15T15:15:51.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="Ldg6zO6y0Kmf_wWnPIi_" version="12.9.10" type="github">
+<mxfile host="www.draw.io" modified="2020-04-15T15:24:17.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="sW_UdeiTirrq6e4kG87I" version="12.9.10" type="github">
   <diagram id="genvPaPjqyOjXK9Ph1_q" name="Page-1">
-    <mxGraphModel dx="767" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="447" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1lTWFeKBdi-CO6GSCHBC-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;VXLAN&lt;br&gt;HDR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="400" y="290" width="80" height="30" as="geometry" />
+        <mxCell id="1lTWFeKBdi-CO6GSCHBC-6" value="&lt;span style=&quot;font-size: 10px&quot;&gt;IP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="335" y="284" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1lTWFeKBdi-CO6GSCHBC-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;EXTENDED&lt;br&gt;HDR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="480" y="290" width="80" height="30" as="geometry" />
+        <mxCell id="1lTWFeKBdi-CO6GSCHBC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="284" width="279" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1lTWFeKBdi-CO6GSCHBC-4" value="&lt;span style=&quot;font-size: 10px&quot;&gt;UDP hdr&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="367" y="287" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1lTWFeKBdi-CO6GSCHBC-5" value="&lt;span style=&quot;font-size: 10px&quot;&gt;UDP HDR&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="397" y="287" width="245" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1lTWFeKBdi-CO6GSCHBC-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;VXLAN&lt;br&gt;hdr&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lTWFeKBdi-CO6GSCHBC-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;L2 FRAME&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="160" height="30" as="geometry" />
+          <mxGeometry x="480" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lTWFeKBdi-CO6GSCHBC-2" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;EXT hdr&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#000000;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
