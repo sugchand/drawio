@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-04-15T14:52:20.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="3UszkElgfb-r-7v4w4_t" version="12.9.10" type="github">
+<mxfile host="www.draw.io" modified="2020-04-15T14:56:43.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="kdvK7U6jlYjDAEjHAQ5n" version="12.9.10" type="github">
   <diagram id="DGuxC2egyGF5mKbaKbJq" name="Page-1">
-    <mxGraphModel dx="639" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1917" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,19 +176,19 @@
           <mxGeometry x="180" y="55" width="20" height="360" as="geometry" />
         </mxCell>
         <mxCell id="kNCdPxVCbltuEIP-QBrs-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;size=0.3;" vertex="1" parent="1">
-          <mxGeometry x="780" y="95" width="20" height="360" as="geometry" />
+          <mxGeometry x="777" y="95" width="20" height="360" as="geometry" />
         </mxCell>
         <mxCell id="kNCdPxVCbltuEIP-QBrs-38" value="EVS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-15" width="40" height="20" as="geometry" />
+          <mxGeometry x="190" y="-3" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kNCdPxVCbltuEIP-QBrs-39" value="EVS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-15" width="40" height="20" as="geometry" />
+          <mxGeometry x="750" y="-3" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kNCdPxVCbltuEIP-QBrs-40" value="Tunnel&lt;br&gt;Setup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="265" width="40" height="20" as="geometry" />
+          <mxGeometry x="802" y="265" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kNCdPxVCbltuEIP-QBrs-41" value="Tunnel&lt;br&gt;Setup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="225" width="40" height="20" as="geometry" />
+          <mxGeometry x="138" y="225" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kNCdPxVCbltuEIP-QBrs-43" value="" style="endArrow=classic;html=1;strokeColor=#994C00;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -283,6 +283,30 @@
           <mxGeometry x="-0.0303" y="1" relative="1" as="geometry">
             <mxPoint x="-47.6" y="-3.88" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-65" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="490" width="20" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=180;" vertex="1" parent="1">
+          <mxGeometry x="777" y="490" width="20" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-67" value="Data Transfer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-68" value="Data Transfer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="802" y="615" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-69" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="780" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-70" value="Session Close" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="795" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-71" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="780" y="780" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kNCdPxVCbltuEIP-QBrs-72" value="Session Close" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="804" y="795" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
