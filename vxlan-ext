@@ -1,1 +1,19 @@
-<mxfile host="www.draw.io" modified="2020-04-15T15:11:49.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" version="12.9.10" etag="dtHTjcFPUtP9hQ1SzWuM" type="github"><diagram id="genvPaPjqyOjXK9Ph1_q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-04-15T15:15:51.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="Ldg6zO6y0Kmf_wWnPIi_" version="12.9.10" type="github">
+  <diagram id="genvPaPjqyOjXK9Ph1_q" name="Page-1">
+    <mxGraphModel dx="767" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1lTWFeKBdi-CO6GSCHBC-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;VXLAN&lt;br&gt;HDR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lTWFeKBdi-CO6GSCHBC-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;EXTENDED&lt;br&gt;HDR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lTWFeKBdi-CO6GSCHBC-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;L2 FRAME&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
