@@ -1,1 +1,116 @@
-<mxfile host="www.draw.io" modified="2020-05-28T10:04:12.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="12.9.14" etag="jMZcGEc0C3H0-Y0Ulqbc" type="github"><diagram id="LazZ0856AOgm0Mk0mkKB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-05-28T10:27:08.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="IytrIJBNYTibpzCWt1--" version="12.9.14" type="github">
+  <diagram id="LazZ0856AOgm0Mk0mkKB" name="Page-1">
+    <mxGraphModel dx="925" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WldnCuO-J827jdbrV1-G-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-11" target="WldnCuO-J827jdbrV1-G-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-11" target="WldnCuO-J827jdbrV1-G-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-11" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="12" y="560" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.577;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-12" target="WldnCuO-J827jdbrV1-G-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.613;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-12" target="WldnCuO-J827jdbrV1-G-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-12" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.389;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-13" target="WldnCuO-J827jdbrV1-G-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.487;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-13" target="WldnCuO-J827jdbrV1-G-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-13" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="78" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.357;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-14" target="WldnCuO-J827jdbrV1-G-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.425;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-14" target="WldnCuO-J827jdbrV1-G-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-14" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="118" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.357;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-15" target="WldnCuO-J827jdbrV1-G-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.456;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-15" target="WldnCuO-J827jdbrV1-G-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-15" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="158" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-16" target="WldnCuO-J827jdbrV1-G-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-19" target="WldnCuO-J827jdbrV1-G-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-19" target="WldnCuO-J827jdbrV1-G-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-19" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-20" target="WldnCuO-J827jdbrV1-G-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-20" target="WldnCuO-J827jdbrV1-G-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="118" y="560" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-21" target="WldnCuO-J827jdbrV1-G-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-21" target="WldnCuO-J827jdbrV1-G-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-21" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="158" y="560" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WldnCuO-J827jdbrV1-G-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-22" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="196" y="560" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-82" value="" style="shape=mxgraph.gcp.networking.cloud_router;html=1;fillColor=#4387FD;gradientColor=#4683EA;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="83" y="380" width="22" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="WldnCuO-J827jdbrV1-G-83" value="" style="shape=mxgraph.gcp.networking.cloud_router;html=1;fillColor=#4387FD;gradientColor=#4683EA;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="136" y="380" width="22" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
