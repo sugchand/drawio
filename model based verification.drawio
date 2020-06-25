@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-06-25T15:37:41.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="t7WrhXVIbn6MN68Bi_Vg" version="13.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-25T15:39:30.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="7vJN6T7HFsSUPYTyvG0P" version="13.3.4" type="github">
   <diagram id="h_iw1HLlaXEuXYO7uz63" name="Page-1">
-    <mxGraphModel dx="1339" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1353" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,12 +51,6 @@
         </mxCell>
         <mxCell id="1ZvdBgC_ewjGmu3FpjU8-14" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;New NW&lt;br&gt;state&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="10" y="313" width="89" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QXJuXUd36oABe8dMuPUm-1" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=none;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="395.5" as="sourcePoint" />
-            <mxPoint x="207" y="395.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QXJuXUd36oABe8dMuPUm-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Translator&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/all_google_icons_symbols_by_carlosjj-du/128/translate_robot-lb.png" parent="1" vertex="1">
           <mxGeometry x="200" y="371.5" width="47" height="47" as="geometry" />
@@ -175,8 +169,14 @@
             <mxPoint x="357" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9fEwImAsKrOZk9uo44y-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Parser&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flat-ui-free/128/Infinity-Loop.png" vertex="1" parent="1">
+        <mxCell id="t9fEwImAsKrOZk9uo44y-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Parser&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flat-ui-free/128/Infinity-Loop.png" parent="1" vertex="1">
           <mxGeometry x="360" y="381" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sUKjDP0TstNJ9muJFRgK-1" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=none;gradientColor=#7ea6e0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157" y="395.500599078341" as="sourcePoint" />
+            <mxPoint x="197" y="396" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
