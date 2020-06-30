@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-06-30T11:37:02.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="lkr_ycipYCNvQQej7opt" version="13.3.4" type="github">
+<mxfile host="www.draw.io" modified="2020-06-30T11:41:58.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="vt4bCfwyg4FIMarUEf8E" version="13.3.4" type="github">
   <diagram id="LazZ0856AOgm0Mk0mkKB" name="Page-1">
     <mxGraphModel dx="1118" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
             <mxPoint x="376" y="431" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WldnCuO-J827jdbrV1-G-22" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+        <mxCell id="WldnCuO-J827jdbrV1-G-22" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;imageBackground=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="181" y="515" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WldnCuO-J827jdbrV1-G-83" value="" style="shape=mxgraph.gcp.networking.cloud_router;html=1;fillColor=#4387FD;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;gradientColor=#4683EA;" parent="1" vertex="1">
@@ -108,7 +108,7 @@
         <mxCell id="WldnCuO-J827jdbrV1-G-125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="WldnCuO-J827jdbrV1-G-126" target="WldnCuO-J827jdbrV1-G-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WldnCuO-J827jdbrV1-G-126" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+        <mxCell id="WldnCuO-J827jdbrV1-G-126" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;imageBackground=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="405" y="689" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WldnCuO-J827jdbrV1-G-127" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.577;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="WldnCuO-J827jdbrV1-G-129" target="WldnCuO-J827jdbrV1-G-154" edge="1">
