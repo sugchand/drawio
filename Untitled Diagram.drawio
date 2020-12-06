@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T19:10:37.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="TOxvJCkObta7oJPpXeRv" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T14:21:26.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="fugDiEQFstmYg5Z04Pn8" version="13.10.8" type="github">
   <diagram id="VsD32Yqnd9QGwdsxf9Xg" name="Page-1">
     <mxGraphModel dx="1360" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,21 +50,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_Ieq1ObKjWpfHSGJmK0j-15" value="Start&lt;br&gt;application" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="160" as="sourcePoint" />
             <mxPoint x="280" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_Ieq1ObKjWpfHSGJmK0j-16" value="Register to&lt;br&gt;Falken" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry y="21" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="191" as="sourcePoint" />
             <mxPoint x="400" y="191" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-17" value="Start&lt;br&gt;application" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-18" value="Register instance&lt;br&gt;to Falken" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry x="0.5" y="20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="220" as="sourcePoint" />
             <mxPoint x="640" y="220" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-20" value="" style="endArrow=classic;html=1;strokeColor=#0000FF;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;dashPattern=1 4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="220" as="sourcePoint" />
+            <mxPoint x="640" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="220" />
+              <mxPoint x="680" y="280" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
