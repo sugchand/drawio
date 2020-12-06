@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T14:21:26.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="fugDiEQFstmYg5Z04Pn8" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T14:30:25.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="iqyE33FrHz4RIslsgcDG" version="13.10.8" type="github">
   <diagram id="VsD32Yqnd9QGwdsxf9Xg" name="Page-1">
     <mxGraphModel dx="1360" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,6 +78,77 @@
               <mxPoint x="680" y="220" />
               <mxPoint x="680" y="280" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-21" value="Modify app instance configurations in Falken" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-22" value="Registeration is&lt;br&gt;complete" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry y="21" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;App Registration&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-30" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Configuration&lt;br&gt;aka&amp;nbsp;&lt;br&gt;QOS policy, monitoring filters etc&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-31" value="Application&lt;br&gt;configurations" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="440" as="sourcePoint" />
+            <mxPoint x="280" y="440" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-32" value="Propagate falken&lt;br&gt;configuration" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="470" as="sourcePoint" />
+            <mxPoint x="400" y="470" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-33" value="Notify&amp;nbsp;&lt;br&gt;new configurations" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="510" as="sourcePoint" />
+            <mxPoint x="640" y="510" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-34" value="" style="endArrow=classic;html=1;strokeColor=#0000FF;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;dashPattern=1 4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="510" as="sourcePoint" />
+            <mxPoint x="640" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="510" />
+              <mxPoint x="680" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-35" value="Register new service instance in falken system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-37" value="Configuration&lt;br&gt;updated" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="570" as="sourcePoint" />
+            <mxPoint x="400" y="570" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-38" value="Registeration is&lt;br&gt;complete" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry y="21" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ieq1ObKjWpfHSGJmK0j-39" value="Configuration&lt;br&gt;updated" style="endArrow=classic;html=1;strokeWidth=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="sourcePoint" />
+            <mxPoint x="280" y="570" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
